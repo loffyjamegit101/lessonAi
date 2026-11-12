@@ -1,0 +1,14 @@
+# សម្ងាត់ — កុំ push
+.env
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# ឯកសារសាកល្បង
+test_qr.png
+
+# macOS
+.DS_Store
